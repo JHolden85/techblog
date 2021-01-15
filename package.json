@@ -19,5 +19,15 @@
     "handlebars": "^4.7.6",
     "mysql2": "^2.2.5",
     "sequelize": "^6.3.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JHolden85/techblog.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JHolden85/techblog/issues"
+  },
+  "homepage": "https://github.com/JHolden85/techblog#readme"
 }
